@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java , Spring Boot , Node.JS, React.JS , DBMS , DSA.**
 
-- 📫 reach me through email : **razajaunwadiwala@gmail.com**
+- 📫 Reach me through email : **razajaunwadiwala@gmail.com**
 
 - ⚡ Fun fact **I break my own code just to learn how to fix it — that’s how all my best projects are built.**
 
