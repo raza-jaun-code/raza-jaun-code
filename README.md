@@ -1,4 +1,4 @@
-# Hi 👋, I'm Raza Jaun
+# Hello , I'm Raza Jaun
 
 ### A passionate full stack developer from karachi.
 
